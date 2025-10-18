@@ -1,6 +1,6 @@
 <!-- 🧑🏻‍💻 HEADER / BANNER -->
 <p align="center">
-  <img src="https://i.imgur.com/3aZV6Ln.jpeg" width="100%" alt="Archit Bit Workspace Banner">
+  <img src="306200-3840x2160-desktop-4k-interstellar-wallpaper.jpg">
 </p>
 
 <h1 align="center">👋 Hi, I'm Archit Kaushik</h1>
