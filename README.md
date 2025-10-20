@@ -1,6 +1,6 @@
 <!-- 🧑🏻‍💻 HEADER / BANNER -->
 <p align="center">
-  <img src="306200-3840x2160-desktop-4k-interstellar-wallpaper.jpg">
+  <img src="Screenshot from 2025-10-20 21-40-36.png">
 </p>
 
 <h1 align="center">👋 Hi, I'm Archit Kaushik</h1>
