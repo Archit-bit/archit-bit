@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Whisk_iwn3imnlbjn1imnx0cmhntotmtomrtl3ctmh1sz.gif">
+  <img src="Whisk_mdzmrjn1egoxego50iz0ygotuwmxqtl4cjni1sy.gif">
 </p>
 
 <h1 align="center">👋 Hey, I'm Archit Kaushik</h1>
