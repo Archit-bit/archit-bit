@@ -17,33 +17,52 @@
 
 ### 👨‍💻 About Me
 
-I'm a Full-Stack Developer with a passion for turning ideas into reality. I've been coding for over 3 years, and I'm currently a Software Analyst at **Accenture**, where I'm helping build the future of utility billing.
+I'm a backend-focused **Software Engineer** with **3+ years of experience** working on enterprise systems and scalable software solutions. At **Accenture**, I work on utility and billing platforms, solving real-world engineering problems involving business logic, data flows, and system reliability.
 
-I'm a big fan of clean code, and I'm always looking for ways to improve my craft. I'm also a huge advocate for open source, and I love contributing to projects that I believe in.
+I enjoy building backend systems, designing APIs, working with databases, and developing full-stack applications that are practical and impactful. Lately, I’ve also been exploring **AI-powered tools**, **automation workflows**, and modern developer ecosystems.
+
+I'm passionate about **clean code**, thoughtful **system design**, and continuous learning.
 
 ---
 
 ### 🚀 My Tech Stack
 
-| Category  | Technologies                                      |
-| --------- | ------------------------------------------------- |
-| **Frontend**  | `React` `Next.js` `Vite` `Tailwind CSS`           |
-| **Backend**   | `Node.js` `Express.js` `Python` `SQL` `MongoDB`   |
-| **Languages** | `JavaScript` `TypeScript` `Python` `HTML/CSS`     |
-| **Tools**     | `Git` `GitHub Actions` `Vercel` `Linux` `TFS` |
+| Category        | Technologies                                                                 |
+| --------------- | ---------------------------------------------------------------------------- |
+| **Languages**   | `Python` `JavaScript` `TypeScript` `SQL` `HTML` `CSS`                        |
+| **Frontend**    | `React` `Next.js` `Vite` `Tailwind CSS`                                      |
+| **Backend**     | `Node.js` `Express.js` `FastAPI` `REST APIs`                                 |
+| **Databases**   | `PostgreSQL` `MongoDB` `SQL Server` `Redis`                                  |
+| **Tools**       | `Git` `GitHub Actions` `Docker` `Linux` `Azure DevOps` `Vercel` `TFS`       |
 
 ---
 
-### 🌱 What I'm Currently Hacking On
+### 🌱 Currently Exploring
 
-- Sharpening my skills in **System Design** and **Data Structures & Algorithms**. I'm always down for a good coding challenge!
-- Geeking out on **Cloud Computing** and exploring the world of **AI Automation**. I'm fascinated by the potential of AI to change the world.
+- **System Design**
+- **Data Structures & Algorithms**
+- **Scalable Backend Development**
+- **AI Automation**
+- **RAG-based applications**
+- **Developer productivity workflows**
+
+---
+
+### 🛠 What I Like Building
+
+- Backend systems
+- Full-stack web apps
+- Internal tools
+- Automation workflows
+- Developer-focused utilities
 
 ---
 
 ### 🤙 Let's Connect!
 
-I'm always open to connecting with other developers, so feel free to reach out! Whether you want to talk tech, discuss a project, or just say hi, my inbox is always open.
+I'm always open to connecting with developers and builders who love creating meaningful software.
+
+Whether it's about engineering, backend systems, projects, collaboration, or just a good tech conversation — feel free to reach out.
 
 ---
 
