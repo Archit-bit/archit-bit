@@ -3,9 +3,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=950&lines=booting+archit.exe...;backend+engineer+with+main+character+energy;FastAPI+%7C+React+%7C+PostgreSQL+%7C+Redis+%7C+Kafka;building+systems+that+scale%2C+recover%2C+and+ship;exploring+LLMs%2C+RAG+%26+agentic+workflows;current+quest%3A+elite+backend+%2B+AI+roles" />
 </p>
 
-<p align="center">
-  <video src="Cycling_Under_Stars_and_Galaxy.mp4" autoplay loop muted playsinline width="100%"></video>
-</p>
+https://github.com/Archit-bit/archit-bit/raw/main/Cycling_Under_Stars_and_Galaxy.mp4
 
 <p align="center">
   <img src="https://img.shields.io/badge/status-shipping%20cool%20stuff-111827?style=for-the-badge" />
