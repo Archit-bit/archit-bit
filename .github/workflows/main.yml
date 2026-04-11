@@ -1,31 +1,28 @@
-name: Generate Datas
+name: Generate Pac-Man Game
 
 on:
-  schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
-  
-  workflow_dispatch: # allow to manually run the job at any time
-
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
   push:
     branches:
-    - main
-    - master
+      - main
+      - master
 
 jobs:
-  build:
-    name: Jobs to update datas
+  generate:
+    permissions:
+      contents: write
     runs-on: ubuntu-latest
+    timeout-minutes: 5
     steps:
-      # Snake Animation
-      - uses: Platane/snk/svg-only@v3
-        id: snake-gif
+      - name: Generate pacman-contribution-graph
+        uses: abozanona/pacman-contribution-graph@main
         with:
-          github_user_name: Archit-bit
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+          github_user_name: ${{ github.repository_owner }}
 
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
+      - name: Push pacman graph to the output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
