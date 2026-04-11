@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <video src="https://github.com/Archit-bit/archit-bit/raw/main/Cycling_Under_Stars_and_Galaxy.mp4" autoplay loop muted playsinline width="100%"></video>
+  <img src="Cycling_Under_Stars_and_Galaxy.gif" width="100%" />
 </p>
 
 <p align="center">
